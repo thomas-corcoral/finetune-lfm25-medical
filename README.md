@@ -1,8 +1,8 @@
 # Fine-tuning LFM2.5-1.2B on Medical Data
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.8+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/TmsCorcoral/lfm25-medical-1.2b)
 
 A complete pipeline for fine-tuning Liquid AI's **LFM2.5-1.2B-Instruct** model on medical instruction data using Unsloth for efficient training on Google Colab's free T4 GPU.
 
